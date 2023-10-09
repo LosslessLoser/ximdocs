@@ -1,0 +1,7 @@
+site_name: XIMdocs
+site_url: http://127.0.0.1:8000/
+theme:
+  name: material
+nav:
+    - Home: index.md
+    - Matrix 1: matrix.md
